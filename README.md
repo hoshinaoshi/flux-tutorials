@@ -1,2 +1,1 @@
-# react-tutorials
 # flux-tutorials
